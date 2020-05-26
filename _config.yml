@@ -2,8 +2,8 @@
 gem: ["jekyll-paginate","jekyll-feed","jekyll-archives","jekyll-sitemap","jekyll-time-ago","jemoji"]
 
 # Site settings
-title: Sendy
-email: sendzation@gmail.com
+title: RG Themenation
+email: regegaid@gmail.com
 description: Cerita
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rgthemenation.github.io" # the base hostname & protocol for your site
