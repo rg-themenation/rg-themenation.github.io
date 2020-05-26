@@ -1,2 +1,19 @@
 #Gems
 gem: ["jekyll-paginate","jekyll-feed","jekyll-archives","jekyll-sitemap","jekyll-time-ago","jemoji"]
+
+# Site settings
+title: Sendy
+email: sendzation@gmail.com
+description: Cerita
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rgthemenation.github.io" # the base hostname & protocol for your site
+twitter_username: kakasugara
+github_username:  fayearth
+timezone: Asia/Jakarta
+paginate: 5
+paginate_path: "page_:num"
+disqus_shortname: "regega"
+fb_app_id: 299814487170716
+
+# Build settings
+markdown: kramdown
