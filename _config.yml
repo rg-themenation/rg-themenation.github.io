@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+#Gems
+gem: ["jekyll-paginate","jekyll-feed","jekyll-archives","jekyll-sitemap","jekyll-time-ago","jemoji"]
